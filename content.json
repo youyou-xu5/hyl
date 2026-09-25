@@ -1,0 +1,93 @@
+{
+  "schemaVersion": 1,
+  "themeId": "rose-orbit",
+  "meta": {
+    "siteTitle": "A Memory Album for My Friend",
+    "recipientName": "My Friend",
+    "creatorName": "Your Name",
+    "occasion": "A tiny archive of bright days",
+    "intro": "Collect the years, screenshots, trips, and quiet notes that make this friendship feel like home.",
+    "footerText": "Made with care, shared with consent."
+  },
+  "images": {},
+  "sections": {
+    "timeline": {
+      "title": "Time Capsule",
+      "description": "A gentle path through the years you want to remember.",
+      "entries": [
+        {
+          "id": "timeline-1",
+          "year": "2021",
+          "title": "The first saved moment",
+          "text": "Write the first scene here: where you met, what changed, or why this photo still matters."
+        },
+        {
+          "id": "timeline-2",
+          "year": "2023",
+          "title": "A day that kept glowing",
+          "text": "Add a short paragraph about a trip, a celebration, or a small day that became important later."
+        },
+        {
+          "id": "timeline-3",
+          "year": "2026",
+          "title": "The story keeps going",
+          "text": "Use this final point for a wish, a promise, or a future chapter."
+        }
+      ]
+    },
+    "archive": {
+      "title": "Little Archive",
+      "description": "A scrapbook of posts, inside jokes, screenshots, and daily fragments.",
+      "years": [
+        {
+          "id": "archive-1",
+          "year": "2024",
+          "title": "Screenshots worth keeping",
+          "note": "A year of tiny proof: messages, outings, favorite lines, and shared rituals.",
+          "tags": [
+            "inside joke",
+            "trip",
+            "late night"
+          ],
+          "posts": [
+            {
+              "id": "archive-post-1",
+              "title": "A message that still sounds like us",
+              "date": "04-12",
+              "text": "Paste a short post, chat memory, or caption here. The best entries are specific, kind, and consent-friendly.",
+              "imageIds": []
+            }
+          ]
+        }
+      ]
+    },
+    "ourStory": {
+      "title": "Our Story",
+      "description": "A chaptered photo album about the friendship itself.",
+      "chapters": [
+        {
+          "id": "story-1",
+          "title": "Chapter One: becoming familiar",
+          "summary": "Describe the season when things started to feel natural. Keep it concrete: places, colors, weather, and habits.",
+          "photos": [
+            {
+              "id": "story-photo-1",
+              "caption": "The day we realized this was a real friendship",
+              "reflection": "Write what this photo means now. A good reflection tells the story behind the frame."
+            }
+          ]
+        }
+      ]
+    },
+    "letter": {
+      "title": "A Letter for You",
+      "greeting": "Dear friend,",
+      "paragraphs": [
+        "This is where the quiet part of the album lives. Say the things that are easier to write slowly.",
+        "Thank you for being part of my ordinary days, my loud days, and the days I did not know how to name."
+      ],
+      "signature": "with love",
+      "accessCode": ""
+    }
+  }
+}
