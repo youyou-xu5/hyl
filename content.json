@@ -363,6 +363,510 @@
       "name": "微信图片_20260925104743_23_2.jpg",
       "assetPath": "assets/image-mugjywij-58p5d-20260925104743-23-2.jpg",
       "alt": "微信图片_20260925104743_23_2"
+    },
+    "image-mugmcnra-817h5": {
+      "id": "image-mugmcnra-817h5",
+      "name": "default (50).jpeg",
+      "assetPath": "assets/image-mugmcnra-817h5-default-50-.jpeg",
+      "alt": "default (50)"
+    },
+    "image-mugmcv5a-itzyo": {
+      "id": "image-mugmcv5a-itzyo",
+      "name": "default (46).jpeg",
+      "assetPath": "assets/image-mugmcv5a-itzyo-default-46-.jpeg",
+      "alt": "default (46)"
+    },
+    "image-mugmebee-pnux9": {
+      "id": "image-mugmebee-pnux9",
+      "name": "default (45).jpeg",
+      "assetPath": "assets/image-mugmebee-pnux9-default-45-.jpeg",
+      "alt": "default (45)"
+    },
+    "image-mugmgcpo-9dkrm": {
+      "id": "image-mugmgcpo-9dkrm",
+      "name": "回国.jpg",
+      "assetPath": "assets/image-mugmgcpo-9dkrm-.jpg",
+      "alt": "回国"
+    },
+    "image-mugmgcpp-3vnmn": {
+      "id": "image-mugmgcpp-3vnmn",
+      "name": "回国机票.jpg",
+      "assetPath": "assets/image-mugmgcpp-3vnmn-.jpg",
+      "alt": "回国机票"
+    },
+    "image-mugmis7g-o4wyb": {
+      "id": "image-mugmis7g-o4wyb",
+      "name": "default (51).jpeg",
+      "assetPath": "assets/image-mugmis7g-o4wyb-default-51-.jpeg",
+      "alt": "default (51)"
+    },
+    "image-mugmiy50-qvc2j": {
+      "id": "image-mugmiy50-qvc2j",
+      "name": "default (48).jpeg",
+      "assetPath": "assets/image-mugmiy50-qvc2j-default-48-.jpeg",
+      "alt": "default (48)"
+    },
+    "image-mugmj4gh-519tz": {
+      "id": "image-mugmj4gh-519tz",
+      "name": "default (47).jpeg",
+      "assetPath": "assets/image-mugmj4gh-519tz-default-47-.jpeg",
+      "alt": "default (47)"
+    },
+    "image-mugmjg78-bil0f": {
+      "id": "image-mugmjg78-bil0f",
+      "name": "default (44).jpeg",
+      "assetPath": "assets/image-mugmjg78-bil0f-default-44-.jpeg",
+      "alt": "default (44)"
+    },
+    "image-mugmjopl-f9rpn": {
+      "id": "image-mugmjopl-f9rpn",
+      "name": "default (40).jpeg",
+      "assetPath": "assets/image-mugmjopl-f9rpn-default-40-.jpeg",
+      "alt": "default (40)"
+    },
+    "image-mugmjug1-8b8jx": {
+      "id": "image-mugmjug1-8b8jx",
+      "name": "default (15).jpeg",
+      "assetPath": "assets/image-mugmjug1-8b8jx-default-15-.jpeg",
+      "alt": "default (15)"
+    },
+    "image-mugmk1yv-9yyel": {
+      "id": "image-mugmk1yv-9yyel",
+      "name": "default (13).jpeg",
+      "assetPath": "assets/image-mugmk1yv-9yyel-default-13-.jpeg",
+      "alt": "default (13)"
+    },
+    "image-mugmlf0k-v8cx4": {
+      "id": "image-mugmlf0k-v8cx4",
+      "name": "default (42).jpeg",
+      "assetPath": "assets/image-mugmlf0k-v8cx4-default-42-.jpeg",
+      "alt": "default (42)"
+    },
+    "image-mugmnek1-w7j2n": {
+      "id": "image-mugmnek1-w7j2n",
+      "name": "富里桥.jpg",
+      "assetPath": "assets/image-mugmnek1-w7j2n-.jpg",
+      "alt": "富里桥"
+    },
+    "image-mugmnmyv-1xdva": {
+      "id": "image-mugmnmyv-1xdva",
+      "name": "摩天岭.jpg",
+      "assetPath": "assets/image-mugmnmyv-1xdva-.jpg",
+      "alt": "摩天岭"
+    },
+    "image-mugmr9ng-py450": {
+      "id": "image-mugmr9ng-py450",
+      "name": "情人节.jpg",
+      "assetPath": "assets/image-mugmr9ng-py450-.jpg",
+      "alt": "情人节"
+    },
+    "image-mugms4j6-5tcbz": {
+      "id": "image-mugms4j6-5tcbz",
+      "name": "情人节2.jpg",
+      "assetPath": "assets/image-mugms4j6-5tcbz-2.jpg",
+      "alt": "情人节2"
+    },
+    "image-mugms4j8-349vv": {
+      "id": "image-mugms4j8-349vv",
+      "name": "情人节3.jpg",
+      "assetPath": "assets/image-mugms4j8-349vv-3.jpg",
+      "alt": "情人节3"
+    },
+    "image-mugms4j8-r5f3y": {
+      "id": "image-mugms4j8-r5f3y",
+      "name": "情人节4.jpg",
+      "assetPath": "assets/image-mugms4j8-r5f3y-4.jpg",
+      "alt": "情人节4"
+    },
+    "image-mugmwmps-eofl1": {
+      "id": "image-mugmwmps-eofl1",
+      "name": "default (60).jpeg",
+      "assetPath": "assets/image-mugmwmps-eofl1-default-60-.jpeg",
+      "alt": "default (60)"
+    },
+    "image-mugmx98n-rj9f6": {
+      "id": "image-mugmx98n-rj9f6",
+      "name": "default (59).jpeg",
+      "assetPath": "assets/image-mugmx98n-rj9f6-default-59-.jpeg",
+      "alt": "default (59)"
+    },
+    "image-mugmxizb-eumka": {
+      "id": "image-mugmxizb-eumka",
+      "name": "default (58).jpeg",
+      "assetPath": "assets/image-mugmxizb-eumka-default-58-.jpeg",
+      "alt": "default (58)"
+    },
+    "image-mugmyt8j-unxes": {
+      "id": "image-mugmyt8j-unxes",
+      "name": "default (57).jpeg",
+      "assetPath": "assets/image-mugmyt8j-unxes-default-57-.jpeg",
+      "alt": "default (57)"
+    },
+    "image-mugmz65g-a9cib": {
+      "id": "image-mugmz65g-a9cib",
+      "name": "default (54).jpeg",
+      "assetPath": "assets/image-mugmz65g-a9cib-default-54-.jpeg",
+      "alt": "default (54)"
+    },
+    "image-mugmz65r-9iylr": {
+      "id": "image-mugmz65r-9iylr",
+      "name": "default (55).jpeg",
+      "assetPath": "assets/image-mugmz65r-9iylr-default-55-.jpeg",
+      "alt": "default (55)"
+    },
+    "image-mugmz65r-d1vpa": {
+      "id": "image-mugmz65r-d1vpa",
+      "name": "default (56).jpeg",
+      "assetPath": "assets/image-mugmz65r-d1vpa-default-56-.jpeg",
+      "alt": "default (56)"
+    },
+    "image-mugmz65s-cbsku": {
+      "id": "image-mugmz65s-cbsku",
+      "name": "default (57).jpeg",
+      "assetPath": "assets/image-mugmz65s-cbsku-default-57-.jpeg",
+      "alt": "default (57)"
+    },
+    "image-mugmzpjz-7ejpu": {
+      "id": "image-mugmzpjz-7ejpu",
+      "name": "default (51).jpeg",
+      "assetPath": "assets/image-mugmzpjz-7ejpu-default-51-.jpeg",
+      "alt": "default (51)"
+    },
+    "image-mugn1sae-oiz2z": {
+      "id": "image-mugn1sae-oiz2z",
+      "name": "default (61).jpeg",
+      "assetPath": "assets/image-mugn1sae-oiz2z-default-61-.jpeg",
+      "alt": "default (61)"
+    },
+    "image-mugn1sah-t25hd": {
+      "id": "image-mugn1sah-t25hd",
+      "name": "default (62).jpeg",
+      "assetPath": "assets/image-mugn1sah-t25hd-default-62-.jpeg",
+      "alt": "default (62)"
+    },
+    "image-mugn3fry-lfi4c": {
+      "id": "image-mugn3fry-lfi4c",
+      "name": "default (63).jpeg",
+      "assetPath": "assets/image-mugn3fry-lfi4c-default-63-.jpeg",
+      "alt": "default (63)"
+    },
+    "image-mugn3frz-3piqg": {
+      "id": "image-mugn3frz-3piqg",
+      "name": "default (64).jpeg",
+      "assetPath": "assets/image-mugn3frz-3piqg-default-64-.jpeg",
+      "alt": "default (64)"
+    },
+    "image-mugn3frz-l6lpz": {
+      "id": "image-mugn3frz-l6lpz",
+      "name": "default (65).jpeg",
+      "assetPath": "assets/image-mugn3frz-l6lpz-default-65-.jpeg",
+      "alt": "default (65)"
+    },
+    "image-mugn3frz-2389m": {
+      "id": "image-mugn3frz-2389m",
+      "name": "default (66).jpeg",
+      "assetPath": "assets/image-mugn3frz-2389m-default-66-.jpeg",
+      "alt": "default (66)"
+    },
+    "image-mugn3fs0-6vibu": {
+      "id": "image-mugn3fs0-6vibu",
+      "name": "default (67).jpeg",
+      "assetPath": "assets/image-mugn3fs0-6vibu-default-67-.jpeg",
+      "alt": "default (67)"
+    },
+    "image-mugn3fs0-evolj": {
+      "id": "image-mugn3fs0-evolj",
+      "name": "default (68).jpeg",
+      "assetPath": "assets/image-mugn3fs0-evolj-default-68-.jpeg",
+      "alt": "default (68)"
+    },
+    "image-mugn5qbf-xrnw5": {
+      "id": "image-mugn5qbf-xrnw5",
+      "name": "default (68).jpeg",
+      "assetPath": "assets/image-mugn5qbf-xrnw5-default-68-.jpeg",
+      "alt": "default (68)"
+    },
+    "image-mugn5qbo-2ghlv": {
+      "id": "image-mugn5qbo-2ghlv",
+      "name": "default (69).jpeg",
+      "assetPath": "assets/image-mugn5qbo-2ghlv-default-69-.jpeg",
+      "alt": "default (69)"
+    },
+    "image-mugn5qbp-9ava1": {
+      "id": "image-mugn5qbp-9ava1",
+      "name": "default (70).jpeg",
+      "assetPath": "assets/image-mugn5qbp-9ava1-default-70-.jpeg",
+      "alt": "default (70)"
+    },
+    "image-mugn5qbp-mzkf8": {
+      "id": "image-mugn5qbp-mzkf8",
+      "name": "default (71).jpeg",
+      "assetPath": "assets/image-mugn5qbp-mzkf8-default-71-.jpeg",
+      "alt": "default (71)"
+    },
+    "image-mugn5qbp-4lqv5": {
+      "id": "image-mugn5qbp-4lqv5",
+      "name": "default (72).jpeg",
+      "assetPath": "assets/image-mugn5qbp-4lqv5-default-72-.jpeg",
+      "alt": "default (72)"
+    },
+    "image-mugn6jtp-7kkyo": {
+      "id": "image-mugn6jtp-7kkyo",
+      "name": "default (73).jpeg",
+      "assetPath": "assets/image-mugn6jtp-7kkyo-default-73-.jpeg",
+      "alt": "default (73)"
+    },
+    "image-mugn6jtp-as6es": {
+      "id": "image-mugn6jtp-as6es",
+      "name": "default (74).jpeg",
+      "assetPath": "assets/image-mugn6jtp-as6es-default-74-.jpeg",
+      "alt": "default (74)"
+    },
+    "image-mugn6jtq-cbzaf": {
+      "id": "image-mugn6jtq-cbzaf",
+      "name": "default (75).jpeg",
+      "assetPath": "assets/image-mugn6jtq-cbzaf-default-75-.jpeg",
+      "alt": "default (75)"
+    },
+    "image-mugn7ryb-0c3rw": {
+      "id": "image-mugn7ryb-0c3rw",
+      "name": "default (76).jpeg",
+      "assetPath": "assets/image-mugn7ryb-0c3rw-default-76-.jpeg",
+      "alt": "default (76)"
+    },
+    "image-mugn8n2w-gdn4w": {
+      "id": "image-mugn8n2w-gdn4w",
+      "name": "default (77).jpeg",
+      "assetPath": "assets/image-mugn8n2w-gdn4w-default-77-.jpeg",
+      "alt": "default (77)"
+    },
+    "image-mugn8n2x-cifsq": {
+      "id": "image-mugn8n2x-cifsq",
+      "name": "default (78).jpeg",
+      "assetPath": "assets/image-mugn8n2x-cifsq-default-78-.jpeg",
+      "alt": "default (78)"
+    },
+    "image-mugnaqug-wajwj": {
+      "id": "image-mugnaqug-wajwj",
+      "name": "default (83).jpeg",
+      "assetPath": "assets/image-mugnaqug-wajwj-default-83-.jpeg",
+      "alt": "default (83)"
+    },
+    "image-mugnaqux-7imxe": {
+      "id": "image-mugnaqux-7imxe",
+      "name": "default (84).jpeg",
+      "assetPath": "assets/image-mugnaqux-7imxe-default-84-.jpeg",
+      "alt": "default (84)"
+    },
+    "image-mugnb5yb-ctu07": {
+      "id": "image-mugnb5yb-ctu07",
+      "name": "default (80).jpeg",
+      "assetPath": "assets/image-mugnb5yb-ctu07-default-80-.jpeg",
+      "alt": "default (80)"
+    },
+    "image-mugnb5yf-7oyfa": {
+      "id": "image-mugnb5yf-7oyfa",
+      "name": "default (81).jpeg",
+      "assetPath": "assets/image-mugnb5yf-7oyfa-default-81-.jpeg",
+      "alt": "default (81)"
+    },
+    "image-mugnb5yf-j6qgd": {
+      "id": "image-mugnb5yf-j6qgd",
+      "name": "default (82).jpeg",
+      "assetPath": "assets/image-mugnb5yf-j6qgd-default-82-.jpeg",
+      "alt": "default (82)"
+    },
+    "image-mugnbh8i-4xfm7": {
+      "id": "image-mugnbh8i-4xfm7",
+      "name": "default (79).jpeg",
+      "assetPath": "assets/image-mugnbh8i-4xfm7-default-79-.jpeg",
+      "alt": "default (79)"
+    },
+    "image-mugne20u-6u9li": {
+      "id": "image-mugne20u-6u9li",
+      "name": "default (87).jpeg",
+      "assetPath": "assets/image-mugne20u-6u9li-default-87-.jpeg",
+      "alt": "default (87)"
+    },
+    "image-mugne218-rjod7": {
+      "id": "image-mugne218-rjod7",
+      "name": "default (88).jpeg",
+      "assetPath": "assets/image-mugne218-rjod7-default-88-.jpeg",
+      "alt": "default (88)"
+    },
+    "image-mugnehf4-bzvkl": {
+      "id": "image-mugnehf4-bzvkl",
+      "name": "default (85).jpeg",
+      "assetPath": "assets/image-mugnehf4-bzvkl-default-85-.jpeg",
+      "alt": "default (85)"
+    },
+    "image-mugnehf4-db5m3": {
+      "id": "image-mugnehf4-db5m3",
+      "name": "default (86).jpeg",
+      "assetPath": "assets/image-mugnehf4-db5m3-default-86-.jpeg",
+      "alt": "default (86)"
+    },
+    "image-mugnhfgq-4mmy0": {
+      "id": "image-mugnhfgq-4mmy0",
+      "name": "default (94).jpeg",
+      "assetPath": "assets/image-mugnhfgq-4mmy0-default-94-.jpeg",
+      "alt": "default (94)"
+    },
+    "image-mugnhfgq-8weoa": {
+      "id": "image-mugnhfgq-8weoa",
+      "name": "default (95).jpeg",
+      "assetPath": "assets/image-mugnhfgq-8weoa-default-95-.jpeg",
+      "alt": "default (95)"
+    },
+    "image-mugnhfgr-eauvy": {
+      "id": "image-mugnhfgr-eauvy",
+      "name": "default (96).jpeg",
+      "assetPath": "assets/image-mugnhfgr-eauvy-default-96-.jpeg",
+      "alt": "default (96)"
+    },
+    "image-mugnhugi-uodds": {
+      "id": "image-mugnhugi-uodds",
+      "name": "default (90).jpeg",
+      "assetPath": "assets/image-mugnhugi-uodds-default-90-.jpeg",
+      "alt": "default (90)"
+    },
+    "image-mugnhugy-cpr22": {
+      "id": "image-mugnhugy-cpr22",
+      "name": "default (91).jpeg",
+      "assetPath": "assets/image-mugnhugy-cpr22-default-91-.jpeg",
+      "alt": "default (91)"
+    },
+    "image-mugniepb-5vhmq": {
+      "id": "image-mugniepb-5vhmq",
+      "name": "default (87).jpeg",
+      "assetPath": "assets/image-mugniepb-5vhmq-default-87-.jpeg",
+      "alt": "default (87)"
+    },
+    "image-mugniepk-3qcr2": {
+      "id": "image-mugniepk-3qcr2",
+      "name": "default (88).jpeg",
+      "assetPath": "assets/image-mugniepk-3qcr2-default-88-.jpeg",
+      "alt": "default (88)"
+    },
+    "image-mugniepk-zm9zu": {
+      "id": "image-mugniepk-zm9zu",
+      "name": "default (89).jpeg",
+      "assetPath": "assets/image-mugniepk-zm9zu-default-89-.jpeg",
+      "alt": "default (89)"
+    },
+    "image-mugnjk2i-h00il": {
+      "id": "image-mugnjk2i-h00il",
+      "name": "default (93).jpeg",
+      "assetPath": "assets/image-mugnjk2i-h00il-default-93-.jpeg",
+      "alt": "default (93)"
+    },
+    "image-mugnlg8d-yzubj": {
+      "id": "image-mugnlg8d-yzubj",
+      "name": "default (97).jpeg",
+      "assetPath": "assets/image-mugnlg8d-yzubj-default-97-.jpeg",
+      "alt": "default (97)"
+    },
+    "image-mugnn1ti-ey1zr": {
+      "id": "image-mugnn1ti-ey1zr",
+      "name": "default (3).png",
+      "assetPath": "assets/image-mugnn1ti-ey1zr-default-3-.png",
+      "alt": "default (3)"
+    },
+    "image-mugnr2vh-efse7": {
+      "id": "image-mugnr2vh-efse7",
+      "name": "default (97).jpeg",
+      "assetPath": "assets/image-mugnr2vh-efse7-default-97-.jpeg",
+      "alt": "default (97)"
+    },
+    "image-mugnr2vp-eaf01": {
+      "id": "image-mugnr2vp-eaf01",
+      "name": "default (98).jpeg",
+      "assetPath": "assets/image-mugnr2vp-eaf01-default-98-.jpeg",
+      "alt": "default (98)"
+    },
+    "image-mugnr2vp-2q320": {
+      "id": "image-mugnr2vp-2q320",
+      "name": "default (99).jpeg",
+      "assetPath": "assets/image-mugnr2vp-2q320-default-99-.jpeg",
+      "alt": "default (99)"
+    },
+    "image-mugnr2vq-8ih8s": {
+      "id": "image-mugnr2vq-8ih8s",
+      "name": "default (100).jpeg",
+      "assetPath": "assets/image-mugnr2vq-8ih8s-default-100-.jpeg",
+      "alt": "default (100)"
+    },
+    "image-mugnr2vq-uy50o": {
+      "id": "image-mugnr2vq-uy50o",
+      "name": "default (101).jpeg",
+      "assetPath": "assets/image-mugnr2vq-uy50o-default-101-.jpeg",
+      "alt": "default (101)"
+    },
+    "image-mugnteuv-nsbe1": {
+      "id": "image-mugnteuv-nsbe1",
+      "name": "新公司.jpg",
+      "assetPath": "assets/image-mugnteuv-nsbe1-.jpg",
+      "alt": "新公司"
+    },
+    "image-mugnteuw-fsj39": {
+      "id": "image-mugnteuw-fsj39",
+      "name": "浊酒.jpg",
+      "assetPath": "assets/image-mugnteuw-fsj39-.jpg",
+      "alt": "浊酒"
+    },
+    "image-mugnty5s-1jwph": {
+      "id": "image-mugnty5s-1jwph",
+      "name": "骆驼山.jpg",
+      "assetPath": "assets/image-mugnty5s-1jwph-.jpg",
+      "alt": "骆驼山"
+    },
+    "image-mugnu1u6-9512x": {
+      "id": "image-mugnu1u6-9512x",
+      "name": "可可满月.jpg",
+      "assetPath": "assets/image-mugnu1u6-9512x-.jpg",
+      "alt": "可可满月"
+    },
+    "image-mugnye9l-r7i5d": {
+      "id": "image-mugnye9l-r7i5d",
+      "name": "宝宝.png",
+      "assetPath": "assets/image-mugnye9l-r7i5d-.png",
+      "alt": "宝宝"
+    },
+    "image-mugo510d-j2fx0": {
+      "id": "image-mugo510d-j2fx0",
+      "name": "可可18.jpg",
+      "assetPath": "assets/image-mugo510d-j2fx0-18.jpg",
+      "alt": "可可18"
+    },
+    "image-mugo62wy-hck8h": {
+      "id": "image-mugo62wy-hck8h",
+      "name": "可可16.jpg",
+      "assetPath": "assets/image-mugo62wy-hck8h-16.jpg",
+      "alt": "可可16"
+    },
+    "image-mugo6mn3-jv7sf": {
+      "id": "image-mugo6mn3-jv7sf",
+      "name": "可可17.jpg",
+      "assetPath": "assets/image-mugo6mn3-jv7sf-17.jpg",
+      "alt": "可可17"
+    },
+    "image-mugo8otr-1468j": {
+      "id": "image-mugo8otr-1468j",
+      "name": "办护照.jpg",
+      "assetPath": "assets/image-mugo8otr-1468j-.jpg",
+      "alt": "办护照"
+    },
+    "image-mugo9g2f-esip6": {
+      "id": "image-mugo9g2f-esip6",
+      "name": "2个月.jpg",
+      "assetPath": "assets/image-mugo9g2f-esip6-2-.jpg",
+      "alt": "2个月"
+    },
+    "image-mugoa86w-8aia5": {
+      "id": "image-mugoa86w-8aia5",
+      "name": "可可满月.jpg",
+      "assetPath": "assets/image-mugoa86w-8aia5-.jpg",
+      "alt": "可可满月"
     }
   },
   "sections": {
@@ -412,7 +916,8 @@
               "date": "10-29",
               "text": "那时你说，你也喜欢健身。\n于是，一句简单的话，成了我们第一次一起运动的契机。\n",
               "imageIds": [
-                "image-mugfe1q2-4ibi9"
+                "image-mugfe1q2-4ibi9",
+                "image-mugn7ryb-0c3rw"
               ]
             },
             {
@@ -430,7 +935,9 @@
               "date": "11-15",
               "text": "Paste the memory here.",
               "imageIds": [
-                "image-mugg7bem-qzfhl"
+                "image-mugg7bem-qzfhl",
+                "image-mugn8n2w-gdn4w",
+                "image-mugn8n2x-cifsq"
               ]
             },
             {
@@ -441,7 +948,20 @@
               "imageIds": [
                 "image-muggdk38-0tnoj",
                 "image-mugh8qmo-k78jg",
-                "image-mugh8up9-9usat"
+                "image-mugh8up9-9usat",
+                "image-mugn1sae-oiz2z",
+                "image-mugn1sah-t25hd",
+                "image-mugn3fry-lfi4c",
+                "image-mugn3frz-3piqg",
+                "image-mugn3frz-l6lpz",
+                "image-mugn3frz-2389m",
+                "image-mugn3fs0-6vibu",
+                "image-mugn3fs0-evolj",
+                "image-mugn5qbf-xrnw5",
+                "image-mugn5qbo-2ghlv",
+                "image-mugn5qbp-9ava1",
+                "image-mugn5qbp-mzkf8",
+                "image-mugn5qbp-4lqv5"
               ]
             },
             {
@@ -450,7 +970,10 @@
               "date": "12-15",
               "text": "第一次一起去野餐。\n\n带上喜欢的食物，找一片阳光刚好的地方，\n坐在一起聊着那些琐碎又有趣的事情。\n\n那天没有特别的安排，\n却因为有你在身边，\n成了我们记忆里很柔软的一页。\n",
               "imageIds": [
-                "image-muggf1j3-oqhyd"
+                "image-muggf1j3-oqhyd",
+                "image-mugn6jtp-7kkyo",
+                "image-mugn6jtp-as6es",
+                "image-mugn6jtq-cbzaf"
               ]
             },
             {
@@ -475,11 +998,16 @@
           "posts": [
             {
               "id": "post-mugfqxnf-b4dao",
-              "title": "吃饭",
-              "date": "2-10",
-              "text": "那次探店途中，我们一起逛了超市。\n\n买了些寻常的东西，\n也把那一天的平凡，悄悄收藏成了回忆。\n",
+              "title": "情人节",
+              "date": "2-14",
+              "text": "我们一起过了第一个最浪漫的情人节 \n\n后来也经常一起约会\n\n那次探店途中，我们一起逛了超市。\n\n买了些寻常的东西，\n也把那一天的平凡，悄悄收藏成了回忆。\n",
               "imageIds": [
-                "image-mugfv63m-u8wm6"
+                "image-mugfv63m-u8wm6",
+                "image-mugmr9ng-py450",
+                "image-mugms4j6-5tcbz",
+                "image-mugms4j8-349vv",
+                "image-mugms4j8-r5f3y",
+                "image-mugmwmps-eofl1"
               ]
             },
             {
@@ -488,7 +1016,9 @@
               "date": "5-20",
               "text": "一起坐在沙滩上，吹着海风，吃着水果。\n",
               "imageIds": [
-                "image-mugg9ml4-5tk7w"
+                "image-mugg9ml4-5tk7w",
+                "image-mugne20u-6u9li",
+                "image-mugne218-rjod7"
               ]
             },
             {
@@ -498,7 +1028,12 @@
               "text": "Paste the memory here.一人一根冰棒，\n再一起去摸大象。\n\n那天的快乐很简单，\n有冰棒，有大象，还有身边的你。\n",
               "imageIds": [
                 "image-muggid6u-khpbw",
-                "image-mugh7221-uqc8a"
+                "image-mugh7221-uqc8a",
+                "image-mugmxizb-eumka",
+                "image-mugnb5yb-ctu07",
+                "image-mugnb5yf-7oyfa",
+                "image-mugnb5yf-j6qgd",
+                "image-mugnlg8d-yzubj"
               ]
             },
             {
@@ -508,7 +1043,8 @@
               "text": "一起体验了一次骑大象，\n在陌生又新鲜的旅途中，留下了一段特别的回忆。\n",
               "imageIds": [
                 "image-muggmg25-4ry1l",
-                "image-mugh6jjs-jgpis"
+                "image-mugh6jjs-jgpis",
+                "image-mugmx98n-rj9f6"
               ]
             },
             {
@@ -526,7 +1062,14 @@
               "date": "5-11",
               "text": "自驾游一起去尖竹汶",
               "imageIds": [
-                "image-muggpua8-1vxi6"
+                "image-muggpua8-1vxi6",
+                "image-mugnehf4-bzvkl",
+                "image-mugnehf4-db5m3",
+                "image-mugnhfgq-4mmy0",
+                "image-mugnhfgq-8weoa",
+                "image-mugnhfgr-eauvy",
+                "image-mugnhugi-uodds",
+                "image-mugnhugy-cpr22"
               ]
             },
             {
@@ -535,16 +1078,24 @@
               "date": "5-18",
               "text": "一起去海洋馆",
               "imageIds": [
-                "image-muggt2be-1vuvl"
+                "image-muggt2be-1vuvl",
+                "image-mugnjk2i-h00il"
               ]
             },
             {
               "id": "post-muggt8q5-jqclf",
               "title": "一起逛街",
               "date": "9-22",
-              "text": "一起逛街",
+              "text": "一起逛街一起去公园 植物园",
               "imageIds": [
-                "image-muggtp2i-a0njd"
+                "image-muggtp2i-a0njd",
+                "image-mugmyt8j-unxes",
+                "image-mugmz65g-a9cib",
+                "image-mugmz65r-9iylr",
+                "image-mugmz65r-d1vpa",
+                "image-mugmz65s-cbsku",
+                "image-mugmzpjz-7ejpu",
+                "image-mugnn1ti-ey1zr"
               ]
             },
             {
@@ -591,7 +1142,13 @@
               "imageIds": [
                 "image-mugh5o72-xw5hv",
                 "image-mughjopk-uoqy7",
-                "image-mughp28c-6e0nq"
+                "image-mughp28c-6e0nq",
+                "image-mugnaqug-wajwj",
+                "image-mugnaqux-7imxe",
+                "image-mugnbh8i-4xfm7",
+                "image-mugniepb-5vhmq",
+                "image-mugniepk-3qcr2",
+                "image-mugniepk-zm9zu"
               ]
             },
             {
@@ -632,7 +1189,12 @@
                 "image-mughohgq-gqt8f",
                 "image-mughohgr-t4933",
                 "image-mughohgr-qmczn",
-                "image-mughtu1i-k9i4x"
+                "image-mughtu1i-k9i4x",
+                "image-mugnr2vh-efse7",
+                "image-mugnr2vp-eaf01",
+                "image-mugnr2vp-2q320",
+                "image-mugnr2vq-8ih8s",
+                "image-mugnr2vq-uy50o"
               ]
             }
           ]
@@ -647,31 +1209,137 @@
           ],
           "posts": [
             {
-              "id": "post-mughqlei-fcgx2",
+              "id": "post-mugm9ajt-8418e",
+              "title": "产检",
+              "date": "4-4",
+              "text": "Paste the memory here.",
+              "imageIds": [
+                "image-mugmcnra-817h5",
+                "image-mugmcv5a-itzyo"
+              ]
+            },
+            {
+              "id": "post-mugmd4lo-1fe1f",
+              "title": "养仓鼠",
+              "date": "4-4",
+              "text": "我们一起养了一只小仓鼠，\n从此家里多了一个小小的成员。\n\n看着它每天吃吃睡睡、跑来跑去，\n那些平平常常的日子，也变得有了记忆。\n",
+              "imageIds": [
+                "image-mugmebee-pnux9"
+              ]
+            },
+            {
+              "id": "post-mugmeedd-hxp5d",
               "title": "回国",
               "date": "4-8",
-              "text": "回国待产 旅游 吃饭",
+              "text": "后来，我们一起回国待产。\n\n从熟悉的城市回到家乡，\n开始为宝宝的到来做准备。\n\n那段日子里，有期待，也有忐忑，\n有对新生活的想象，\n也有很多第一次面对的事情。\n\n虽然过程并不总是顺利，\n但我们还是一起走过来了。\n",
               "imageIds": [
-                "image-mughueon-m7hg8",
-                "image-mughueoo-wvkb0",
-                "image-mughueoo-cha7k",
-                "image-mughueoo-siwpg"
+                "image-mugmgcpo-9dkrm",
+                "image-mugmgcpp-3vnmn",
+                "image-mugmlf0k-v8cx4",
+                "image-mugnty5s-1jwph",
+                "image-mugnu1u6-9512x"
               ]
+            },
+            {
+              "id": "post-mugmhluz-5nxau",
+              "title": "曼谷的一些休息日",
+              "date": "5-8",
+              "text": "在曼谷度过的一些休息日。\n\n没有特别的安排，\n有时一起散散步，有时找一家店吃饭，\n也有一些只是随意走走、随手记录下来的日子。\n\n这些零零散散的瞬间，\n拼起来，也成了我们在曼谷生活过的痕迹。\n",
+              "imageIds": [
+                "image-mugmis7g-o4wyb",
+                "image-mugmiy50-qvc2j",
+                "image-mugmj4gh-519tz",
+                "image-mugmjg78-bil0f",
+                "image-mugmjopl-f9rpn",
+                "image-mugmjug1-8b8jx",
+                "image-mugmk1yv-9yyel"
+              ]
+            },
+            {
+              "id": "post-mugmm0wt-cylsc",
+              "title": "之后的生活片段",
+              "date": "4-11",
+              "text": "回国以后，我们的生活也慢慢有了新的变化。\n\n趁着宝宝还没到来，我们一起去了一些地方，留下了最后一段属于两个人的旅行时光。\n\n后来，我开始待产，我们也从期待宝宝的到来，慢慢变成了真正的一家人。\n\n从两个人的旅行，到一起迎接宝宝，再到第一次学着照顾一个小小的生命。\n\n这一段日子，有忙碌，有疲惫，也有很多从未经历过的第一次。\n\n生活就这样，一点一点地改变着。\n\n而我们的故事，也从“我们两个人”，开始有了新的篇章。\n",
+              "imageIds": [
+                "image-mugmnek1-w7j2n",
+                "image-mugmnmyv-1xdva",
+                "image-mugnteuv-nsbe1",
+                "image-mugnteuw-fsj39"
+              ]
+            },
+            {
+              "id": "post-mugnvqgr-10cu3",
+              "title": "满一周年结婚纪念日",
+              "date": "10-13",
+              "text": "谢谢命运让我遇见你",
+              "imageIds": []
             }
           ]
         }
       ]
     },
     "ourStory": {
-      "title": "Our Story",
-      "description": "A chaptered photo album about the friendship itself.",
-      "chapters": []
+      "title": "我们的故事",
+      "description": "一本关于我们爱情的、分章节编排的相册。 记录相遇、相知、相爱，以及走进婚姻后的每一个瞬间。",
+      "chapters": [
+        {
+          "id": "story-mugm2x8c-wnbzp",
+          "title": "2024-2026",
+          "summary": "2024\n相遇\n在芭提雅，我们隔着屏幕认识了彼此\n\n↓\n\n第一次见面\n从屏幕里的聊天，走到了现实里的见面\n\n↓\n\n相知\n第一次一起健身、第一次牵手散步\n\n↓\n\n一起去远方\n第一次长途旅行，也一起跨过了新年\n\n↓\n\n决定成为一家人\n回到桂林，拍下我们的结婚照\n\n↓\n\n2025\n成为夫妻\n开始真正属于我们的婚姻生活\n\n↓\n\n我们的新成员\n一个小生命加入了我们的故事\n\n↓\n\n2026\n结婚一周年\n我们依然在继续写属于我们的故事",
+          "photos": []
+        },
+        {
+          "id": "story-mugnxhik-139lx",
+          "title": "我们的可可",
+          "summary": "她已经4个月了",
+          "photos": [
+            {
+              "id": "story-photo-mugnxsuf-d9wnf",
+              "caption": "刚出生",
+              "reflection": "记录她长大的过程 超级可爱",
+              "imageId": "image-mugo510d-j2fx0"
+            },
+            {
+              "id": "story-photo-mugo589t-snlnc",
+              "caption": "3个月",
+              "reflection": "你抱着她的样子",
+              "imageId": "image-mugo62wy-hck8h"
+            },
+            {
+              "id": "story-photo-mugo647b-96umn",
+              "caption": "2个月",
+              "reflection": "我们抱她的样子",
+              "imageId": "image-mugo6mn3-jv7sf"
+            },
+            {
+              "id": "story-photo-mugo6p6n-vrpqm",
+              "caption": "1个月",
+              "reflection": "带她去办护照",
+              "imageId": "image-mugo8otr-1468j"
+            },
+            {
+              "id": "story-photo-mugo92lf-uc6bn",
+              "caption": "不知道几个月",
+              "reflection": "她小小一只",
+              "imageId": "image-mugo9g2f-esip6"
+            },
+            {
+              "id": "story-photo-mugo9uij-trcba",
+              "caption": "满月照",
+              "reflection": "可可爱爱",
+              "imageId": "image-mugoa86w-8aia5"
+            }
+          ]
+        }
+      ]
     },
     "letter": {
-      "title": "A Letter for You",
-      "greeting": "Dear friend,",
-      "paragraphs": [],
-      "signature": "with love",
+      "title": "一封信",
+      "greeting": "亲亲老公",
+      "paragraphs": [
+        "亲爱的老公：\n\n不知不觉，我们已经结婚一年了。\n\n这一年，好像过得很快。\n\n翻回这些照片的时候，我才发现，原来从我们在芭提雅认识，到后来一点一点走进彼此的生活，我们已经一起经历了这么多事情。\n\n2024年，我们隔着屏幕认识。\n然后很快，从屏幕里的聊天走到了现实里的见面。\n\n第一次一起健身，\n第一次牵着手散步，\n第一次一起去很远的地方旅行，\n第一次一起跨过新年的钟声。\n\n后来，我们回到桂林，拍下了属于我们的结婚照。\n\n我们没有举办一场盛大的婚礼，\n没有很多人见证，\n也没有那些热闹的仪式。\n\n可是我们还是这样，成为了夫妻。\n\n现在回头看，我觉得婚姻好像也不一定需要多么盛大的开始。\n\n它可以只是两个人决定，\n从那一天起，要一起生活，\n一起面对以后的日子。\n\n这一年，我们也没有一直在旅行，也没有每天都发生什么特别的事情。\n\n我们一起逛过超市，\n一起吃过很多顿饭，\n一起去海边，\n一起吃冰棒、摸大象，\n也有很多只是待在彼此身边的普通日子。\n\n以前总觉得，值得被记住的应该是那些特别的时刻。\n\n可现在我越来越觉得，\n真正组成我们生活的，\n其实就是这些平凡的小事。\n\n这一年，我们的人生也发生了很大的变化。\n\n我们迎来了属于我们的宝宝。\n\n从两个人，到成为一家三口，\n我们的故事又多了一位小小的参与者。\n\n因为宝宝的到来，我们暂时少去了一些地方，\n少看了一些风景，\n也有一些原本计划好的事情不得不放一放。\n\n但没关系。\n\n因为这一年，我们也正在经历一段以前从未经历过的人生。\n\n这一年不一定完美，\n我们的生活也不可能永远顺利。\n\n但当我把这些照片一张一张看完，\n还是会觉得——\n\n原来我们真的已经一起走了这么远。\n\n谢谢你成为我这一年生活里最重要的人之一。\n\n谢谢我们曾经一起经历过的那些开心、平凡、忙碌，还有那些只有我们自己知道的日子。\n\n结婚一周年快乐。\n\n以后我们还会有很多个一年。\n\n希望下一本相册里，\n还有更多我们一起去过的地方，\n更多一起吃过的饭，\n更多平凡却值得记住的日子。\n\n也希望很多年以后，\n当我们再翻回今天这本相册的时候，\n\n还能笑着说：\n\n“你看，\n我们真的一起走过了这么多年。”\n\n一周年快乐。\n\n也祝我们的故事，\n继续写下去。\n\n爱你的悠悠\n\n2026\n"
+      ],
+      "signature": "以爱署名",
       "accessCode": ""
     }
   }
