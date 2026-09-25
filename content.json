@@ -2,60 +2,661 @@
   "schemaVersion": 1,
   "themeId": "rose-orbit",
   "meta": {
-    "siteTitle": "A Memory Album for My Friend",
-    "recipientName": "My Friend",
-    "creatorName": "Your Name",
-    "occasion": "A tiny archive of bright days",
-    "intro": "Collect the years, screenshots, trips, and quiet notes that make this friendship feel like home.",
-    "footerText": "Made with care, shared with consent."
+    "siteTitle": "一周年结婚纪念册",
+    "recipientName": "张捷",
+    "creatorName": "悠悠",
+    "occasion": "一份我们相识相知相爱的记录",
+    "intro": "一年以前，我们成为了夫妻。\n\n这一年里，\n我们一起走过的路、看过的风景、\n那些被记录下来的瞬间，\n还有许多没有被记录的平凡日子，\n一点一点，组成了属于我们的第一年。\n\n时间把两个独立的人，\n变成了彼此生活的一部分。\n\n而这一页，\n是我们故事的第一年。\n",
+    "footerText": "此页所载，皆是我们的岁月。"
   },
-  "images": {},
+  "images": {
+    "image-mugeugpu-7kpxu": {
+      "id": "image-mugeugpu-7kpxu",
+      "name": "default (1).jpeg",
+      "assetPath": "assets/image-mugeugpu-7kpxu-default-1-.jpeg",
+      "alt": "default (1)"
+    },
+    "image-mugewymi-vl13z": {
+      "id": "image-mugewymi-vl13z",
+      "name": "default (2).jpeg",
+      "assetPath": "assets/image-mugewymi-vl13z-default-2-.jpeg",
+      "alt": "default (2)"
+    },
+    "image-mugex41v-l46fr": {
+      "id": "image-mugex41v-l46fr",
+      "name": "default (1).jpeg",
+      "assetPath": "assets/image-mugex41v-l46fr-default-1-.jpeg",
+      "alt": "default (1)"
+    },
+    "image-mugeytv5-fduis": {
+      "id": "image-mugeytv5-fduis",
+      "name": "default (2).jpeg",
+      "assetPath": "assets/image-mugeytv5-fduis-default-2-.jpeg",
+      "alt": "default (2)"
+    },
+    "image-mugezdrz-t3b6y": {
+      "id": "image-mugezdrz-t3b6y",
+      "name": "default (3).jpeg",
+      "assetPath": "assets/image-mugezdrz-t3b6y-default-3-.jpeg",
+      "alt": "default (3)"
+    },
+    "image-mugf3u84-i08zc": {
+      "id": "image-mugf3u84-i08zc",
+      "name": "_F5A2584 2.jpg",
+      "assetPath": "assets/image-mugf3u84-i08zc-f5a2584-2.jpg",
+      "alt": "_F5A2584 2"
+    },
+    "image-mugf85q5-ssjvr": {
+      "id": "image-mugf85q5-ssjvr",
+      "name": "微信图片_20260925104743_23_2.jpg",
+      "assetPath": "assets/image-mugf85q5-ssjvr-20260925104743-23-2.jpg",
+      "alt": "微信图片_20260925104743_23_2"
+    },
+    "image-mugfe1q2-4ibi9": {
+      "id": "image-mugfe1q2-4ibi9",
+      "name": "default (1).jpeg",
+      "assetPath": "assets/image-mugfe1q2-4ibi9-default-1-.jpeg",
+      "alt": "default (1)"
+    },
+    "image-mugfkkma-c6seh": {
+      "id": "image-mugfkkma-c6seh",
+      "name": "default (4).jpeg",
+      "assetPath": "assets/image-mugfkkma-c6seh-default-4-.jpeg",
+      "alt": "default (4)"
+    },
+    "image-mugfv63m-u8wm6": {
+      "id": "image-mugfv63m-u8wm6",
+      "name": "default (9).jpeg",
+      "assetPath": "assets/image-mugfv63m-u8wm6-default-9-.jpeg",
+      "alt": "default (9)"
+    },
+    "image-mugfz0nz-j9cc4": {
+      "id": "image-mugfz0nz-j9cc4",
+      "name": "default (8).jpeg",
+      "assetPath": "assets/image-mugfz0nz-j9cc4-default-8-.jpeg",
+      "alt": "default (8)"
+    },
+    "image-mugg7bem-qzfhl": {
+      "id": "image-mugg7bem-qzfhl",
+      "name": "微信图片_2026-09-25_111532_622.jpg",
+      "assetPath": "assets/image-mugg7bem-qzfhl-2026-09-25-111532-622.jpg",
+      "alt": "微信图片_2026-09-25_111532_622"
+    },
+    "image-mugg9ml4-5tk7w": {
+      "id": "image-mugg9ml4-5tk7w",
+      "name": "default (18).jpeg",
+      "assetPath": "assets/image-mugg9ml4-5tk7w-default-18-.jpeg",
+      "alt": "default (18)"
+    },
+    "image-muggdk38-0tnoj": {
+      "id": "image-muggdk38-0tnoj",
+      "name": "default (8).jpeg",
+      "assetPath": "assets/image-muggdk38-0tnoj-default-8-.jpeg",
+      "alt": "default (8)"
+    },
+    "image-muggf1j3-oqhyd": {
+      "id": "image-muggf1j3-oqhyd",
+      "name": "default (5).jpeg",
+      "assetPath": "assets/image-muggf1j3-oqhyd-default-5-.jpeg",
+      "alt": "default (5)"
+    },
+    "image-mugggs0m-v882g": {
+      "id": "image-mugggs0m-v882g",
+      "name": "格兰岛.jpg",
+      "assetPath": "assets/image-mugggs0m-v882g-.jpg",
+      "alt": "格兰岛"
+    },
+    "image-muggid6u-khpbw": {
+      "id": "image-muggid6u-khpbw",
+      "name": "default (10).jpeg",
+      "assetPath": "assets/image-muggid6u-khpbw-default-10-.jpeg",
+      "alt": "default (10)"
+    },
+    "image-muggmg25-4ry1l": {
+      "id": "image-muggmg25-4ry1l",
+      "name": "3-30骑大象.jpg",
+      "assetPath": "assets/image-muggmg25-4ry1l-3-30-.jpg",
+      "alt": "3-30骑大象"
+    },
+    "image-muggoc3n-p0yon": {
+      "id": "image-muggoc3n-p0yon",
+      "name": "default (19).jpeg",
+      "assetPath": "assets/image-muggoc3n-p0yon-default-19-.jpeg",
+      "alt": "default (19)"
+    },
+    "image-muggpua8-1vxi6": {
+      "id": "image-muggpua8-1vxi6",
+      "name": "default (17).jpeg",
+      "assetPath": "assets/image-muggpua8-1vxi6-default-17-.jpeg",
+      "alt": "default (17)"
+    },
+    "image-muggt2be-1vuvl": {
+      "id": "image-muggt2be-1vuvl",
+      "name": "default (22).jpeg",
+      "assetPath": "assets/image-muggt2be-1vuvl-default-22-.jpeg",
+      "alt": "default (22)"
+    },
+    "image-muggtp2i-a0njd": {
+      "id": "image-muggtp2i-a0njd",
+      "name": "default (21).jpeg",
+      "assetPath": "assets/image-muggtp2i-a0njd-default-21-.jpeg",
+      "alt": "default (21)"
+    },
+    "image-muggzy7j-lrxck": {
+      "id": "image-muggzy7j-lrxck",
+      "name": "default (25).jpeg",
+      "assetPath": "assets/image-muggzy7j-lrxck-default-25-.jpeg",
+      "alt": "default (25)"
+    },
+    "image-mugh1i8f-122wz": {
+      "id": "image-mugh1i8f-122wz",
+      "name": "default (24).jpeg",
+      "assetPath": "assets/image-mugh1i8f-122wz-default-24-.jpeg",
+      "alt": "default (24)"
+    },
+    "image-mugh2jn5-7phss": {
+      "id": "image-mugh2jn5-7phss",
+      "name": "default (23).jpeg",
+      "assetPath": "assets/image-mugh2jn5-7phss-default-23-.jpeg",
+      "alt": "default (23)"
+    },
+    "image-mugh51n3-c80d5": {
+      "id": "image-mugh51n3-c80d5",
+      "name": "悬崖咖啡厅.jpg",
+      "assetPath": "assets/image-mugh51n3-c80d5-.jpg",
+      "alt": "悬崖咖啡厅"
+    },
+    "image-mugh5o72-xw5hv": {
+      "id": "image-mugh5o72-xw5hv",
+      "name": "default.png",
+      "assetPath": "assets/image-mugh5o72-xw5hv-default.png",
+      "alt": "default"
+    },
+    "image-mugh6jjs-jgpis": {
+      "id": "image-mugh6jjs-jgpis",
+      "name": "default (20).jpeg",
+      "assetPath": "assets/image-mugh6jjs-jgpis-default-20-.jpeg",
+      "alt": "default (20)"
+    },
+    "image-mugh7221-uqc8a": {
+      "id": "image-mugh7221-uqc8a",
+      "name": "default (16).jpeg",
+      "assetPath": "assets/image-mugh7221-uqc8a-default-16-.jpeg",
+      "alt": "default (16)"
+    },
+    "image-mugh8qmo-k78jg": {
+      "id": "image-mugh8qmo-k78jg",
+      "name": "default (6).jpeg",
+      "assetPath": "assets/image-mugh8qmo-k78jg-default-6-.jpeg",
+      "alt": "default (6)"
+    },
+    "image-mugh8up9-9usat": {
+      "id": "image-mugh8up9-9usat",
+      "name": "default (7).jpeg",
+      "assetPath": "assets/image-mugh8up9-9usat-default-7-.jpeg",
+      "alt": "default (7)"
+    },
+    "image-mughajsf-hu3pj": {
+      "id": "image-mughajsf-hu3pj",
+      "name": "default (28).jpeg",
+      "assetPath": "assets/image-mughajsf-hu3pj-default-28-.jpeg",
+      "alt": "default (28)"
+    },
+    "image-mughapbi-68vpd": {
+      "id": "image-mughapbi-68vpd",
+      "name": "default (26).jpeg",
+      "assetPath": "assets/image-mughapbi-68vpd-default-26-.jpeg",
+      "alt": "default (26)"
+    },
+    "image-mughav9i-hejzt": {
+      "id": "image-mughav9i-hejzt",
+      "name": "default (27).jpeg",
+      "assetPath": "assets/image-mughav9i-hejzt-default-27-.jpeg",
+      "alt": "default (27)"
+    },
+    "image-mughd038-5g278": {
+      "id": "image-mughd038-5g278",
+      "name": "default (30).jpeg",
+      "assetPath": "assets/image-mughd038-5g278-default-30-.jpeg",
+      "alt": "default (30)"
+    },
+    "image-mughd4n4-cx3xd": {
+      "id": "image-mughd4n4-cx3xd",
+      "name": "default (29).jpeg",
+      "assetPath": "assets/image-mughd4n4-cx3xd-default-29-.jpeg",
+      "alt": "default (29)"
+    },
+    "image-mughd99r-kj2r4": {
+      "id": "image-mughd99r-kj2r4",
+      "name": "default (27).jpeg",
+      "assetPath": "assets/image-mughd99r-kj2r4-default-27-.jpeg",
+      "alt": "default (27)"
+    },
+    "image-mughdl6x-i80vh": {
+      "id": "image-mughdl6x-i80vh",
+      "name": "default (23).jpeg",
+      "assetPath": "assets/image-mughdl6x-i80vh-default-23-.jpeg",
+      "alt": "default (23)"
+    },
+    "image-mughesty-ughvc": {
+      "id": "image-mughesty-ughvc",
+      "name": "default (12).jpeg",
+      "assetPath": "assets/image-mughesty-ughvc-default-12-.jpeg",
+      "alt": "default (12)"
+    },
+    "image-mughfsti-jbln0": {
+      "id": "image-mughfsti-jbln0",
+      "name": "喝酒微醺.jpg",
+      "assetPath": "assets/image-mughfsti-jbln0-.jpg",
+      "alt": "喝酒微醺"
+    },
+    "image-mughj1dl-eyg5g": {
+      "id": "image-mughj1dl-eyg5g",
+      "name": "default (34).jpeg",
+      "assetPath": "assets/image-mughj1dl-eyg5g-default-34-.jpeg",
+      "alt": "default (34)"
+    },
+    "image-mughj761-csy1v": {
+      "id": "image-mughj761-csy1v",
+      "name": "default (33).jpeg",
+      "assetPath": "assets/image-mughj761-csy1v-default-33-.jpeg",
+      "alt": "default (33)"
+    },
+    "image-mughjc7r-pa2p9": {
+      "id": "image-mughjc7r-pa2p9",
+      "name": "default (32).jpeg",
+      "assetPath": "assets/image-mughjc7r-pa2p9-default-32-.jpeg",
+      "alt": "default (32)"
+    },
+    "image-mughjopk-uoqy7": {
+      "id": "image-mughjopk-uoqy7",
+      "name": "default (31).jpeg",
+      "assetPath": "assets/image-mughjopk-uoqy7-default-31-.jpeg",
+      "alt": "default (31)"
+    },
+    "image-mughohgc-5rlbd": {
+      "id": "image-mughohgc-5rlbd",
+      "name": "default (35).jpeg",
+      "assetPath": "assets/image-mughohgc-5rlbd-default-35-.jpeg",
+      "alt": "default (35)"
+    },
+    "image-mughohgq-5te9e": {
+      "id": "image-mughohgq-5te9e",
+      "name": "default (36).jpeg",
+      "assetPath": "assets/image-mughohgq-5te9e-default-36-.jpeg",
+      "alt": "default (36)"
+    },
+    "image-mughohgq-lqxnn": {
+      "id": "image-mughohgq-lqxnn",
+      "name": "default (37).jpeg",
+      "assetPath": "assets/image-mughohgq-lqxnn-default-37-.jpeg",
+      "alt": "default (37)"
+    },
+    "image-mughohgq-0fq2w": {
+      "id": "image-mughohgq-0fq2w",
+      "name": "default (38).jpeg",
+      "assetPath": "assets/image-mughohgq-0fq2w-default-38-.jpeg",
+      "alt": "default (38)"
+    },
+    "image-mughohgq-gqt8f": {
+      "id": "image-mughohgq-gqt8f",
+      "name": "default (39).jpeg",
+      "assetPath": "assets/image-mughohgq-gqt8f-default-39-.jpeg",
+      "alt": "default (39)"
+    },
+    "image-mughohgr-t4933": {
+      "id": "image-mughohgr-t4933",
+      "name": "default (40).jpeg",
+      "assetPath": "assets/image-mughohgr-t4933-default-40-.jpeg",
+      "alt": "default (40)"
+    },
+    "image-mughohgr-qmczn": {
+      "id": "image-mughohgr-qmczn",
+      "name": "default (41).jpeg",
+      "assetPath": "assets/image-mughohgr-qmczn-default-41-.jpeg",
+      "alt": "default (41)"
+    },
+    "image-mughp28c-6e0nq": {
+      "id": "image-mughp28c-6e0nq",
+      "name": "default (35).jpeg",
+      "assetPath": "assets/image-mughp28c-6e0nq-default-35-.jpeg",
+      "alt": "default (35)"
+    },
+    "image-mughtu1i-k9i4x": {
+      "id": "image-mughtu1i-k9i4x",
+      "name": "default (49).jpeg",
+      "assetPath": "assets/image-mughtu1i-k9i4x-default-49-.jpeg",
+      "alt": "default (49)"
+    },
+    "image-mughueon-m7hg8": {
+      "id": "image-mughueon-m7hg8",
+      "name": "default (45).jpeg",
+      "assetPath": "assets/image-mughueon-m7hg8-default-45-.jpeg",
+      "alt": "default (45)"
+    },
+    "image-mughueoo-wvkb0": {
+      "id": "image-mughueoo-wvkb0",
+      "name": "default (46).jpeg",
+      "assetPath": "assets/image-mughueoo-wvkb0-default-46-.jpeg",
+      "alt": "default (46)"
+    },
+    "image-mughueoo-cha7k": {
+      "id": "image-mughueoo-cha7k",
+      "name": "default (47).jpeg",
+      "assetPath": "assets/image-mughueoo-cha7k-default-47-.jpeg",
+      "alt": "default (47)"
+    },
+    "image-mughueoo-siwpg": {
+      "id": "image-mughueoo-siwpg",
+      "name": "default (48).jpeg",
+      "assetPath": "assets/image-mughueoo-siwpg-default-48-.jpeg",
+      "alt": "default (48)"
+    },
+    "image-mugjyapd-acplt": {
+      "id": "image-mugjyapd-acplt",
+      "name": "default (45).jpeg",
+      "assetPath": "assets/image-mugjyapd-acplt-default-45-.jpeg",
+      "alt": "default (45)"
+    },
+    "image-mugjywij-58p5d": {
+      "id": "image-mugjywij-58p5d",
+      "name": "微信图片_20260925104743_23_2.jpg",
+      "assetPath": "assets/image-mugjywij-58p5d-20260925104743-23-2.jpg",
+      "alt": "微信图片_20260925104743_23_2"
+    }
+  },
   "sections": {
     "timeline": {
-      "title": "Time Capsule",
-      "description": "A gentle path through the years you want to remember.",
+      "title": "时间囊",
+      "description": "沿着这一年的时光，重温属于我们的每一个瞬间。",
       "entries": [
         {
-          "id": "timeline-1",
-          "year": "2021",
-          "title": "The first saved moment",
-          "text": "Write the first scene here: where you met, what changed, or why this photo still matters."
-        },
-        {
           "id": "timeline-2",
-          "year": "2023",
-          "title": "A day that kept glowing",
-          "text": "Add a short paragraph about a trip, a celebration, or a small day that became important later."
+          "year": "2024",
+          "title": "初次一起散步",
+          "text": "第一次在一座已经记不起名字的公寓里牵着手散步，\n那时的我们，也许不会想到，\n这份小小的心动，会一路走到今天。\n",
+          "imageId": "image-mugeytv5-fduis"
         },
         {
           "id": "timeline-3",
+          "year": "2025",
+          "title": "结婚",
+          "text": "一起回到桂林老家，\n拍下属于我们的结婚照。\n从那一天起，我们的故事也多了一份被认真记录下来的模样。\n",
+          "imageId": "image-mugf3u84-i08zc"
+        },
+        {
+          "id": "timeline-mugf3y9z-8ciev",
           "year": "2026",
-          "title": "The story keeps going",
-          "text": "Use this final point for a wish, a promise, or a future chapter."
+          "title": "一家三口",
+          "text": "一起见证我们爱情结晶的诞生",
+          "imageId": "image-mugjywij-58p5d"
         }
       ]
     },
     "archive": {
-      "title": "Little Archive",
-      "description": "A scrapbook of posts, inside jokes, screenshots, and daily fragments.",
+      "title": "时光档案",
+      "description": "收录我们共同走过的每一个瞬间。",
       "years": [
         {
           "id": "archive-1",
           "year": "2024",
-          "title": "Screenshots worth keeping",
-          "note": "A year of tiny proof: messages, outings, favorite lines, and shared rituals.",
+          "title": "相识",
+          "note": "我们从线上相识，\n那时谁也没有想到，\n一次线上偶然的遇见，\n会让两个原本陌生的人，最终走到了一起。",
           "tags": [
-            "inside joke",
-            "trip",
-            "late night"
+            "一起健身"
           ],
           "posts": [
             {
               "id": "archive-post-1",
-              "title": "A message that still sounds like us",
-              "date": "04-12",
-              "text": "Paste a short post, chat memory, or caption here. The best entries are specific, kind, and consent-friendly.",
+              "title": "约会",
+              "date": "10-29",
+              "text": "那时你说，你也喜欢健身。\n于是，一句简单的话，成了我们第一次一起运动的契机。\n",
+              "imageIds": [
+                "image-mugfe1q2-4ibi9"
+              ]
+            },
+            {
+              "id": "post-mugferxz-m1805",
+              "title": "约会",
+              "date": "10-29",
+              "text": "第一次约会时候我见你的样子",
+              "imageIds": [
+                "image-mugfkkma-c6seh"
+              ]
+            },
+            {
+              "id": "post-mugg0vly-e52k2",
+              "title": "水灯节",
+              "date": "11-15",
+              "text": "Paste the memory here.",
+              "imageIds": [
+                "image-mugg7bem-qzfhl"
+              ]
+            },
+            {
+              "id": "post-muggd1k8-9hwhr",
+              "title": "跨年",
+              "date": "12-31",
+              "text": "第一次一起去很远的地方，\n也是第一次陪彼此跨过新年的钟声。\n\n陌生的风景、漫长的旅途，\n还有身边一直陪着我的你。\n\n新年的第一天，我们在远方醒来；\n而我们的故事，也在这一年继续向前。\n",
+              "imageIds": [
+                "image-muggdk38-0tnoj",
+                "image-mugh8qmo-k78jg",
+                "image-mugh8up9-9usat"
+              ]
+            },
+            {
+              "id": "post-mugge9ej-9yxhq",
+              "title": "野餐",
+              "date": "12-15",
+              "text": "第一次一起去野餐。\n\n带上喜欢的食物，找一片阳光刚好的地方，\n坐在一起聊着那些琐碎又有趣的事情。\n\n那天没有特别的安排，\n却因为有你在身边，\n成了我们记忆里很柔软的一页。\n",
+              "imageIds": [
+                "image-muggf1j3-oqhyd"
+              ]
+            },
+            {
+              "id": "post-mugggdgp-9y5ih",
+              "title": "格兰岛",
+              "date": "11-18",
+              "text": "一起去了格兰岛，在海风和阳光里吃了一顿饭。\n\n看着眼前的海，\n身边是喜欢的人，\n连一顿寻常的饭，也变成了值得记住的时光。\n\n那一天，我们把浪漫藏进了海风里。\n",
+              "imageIds": [
+                "image-mugggs0m-v882g"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "archive-mugfp522-5laxw",
+          "year": "2025",
+          "title": "相知",
+          "note": "从相遇到相知，\n我们把陌生变成熟悉，把一句句聊天变成了牵挂。\n\n一点点了解彼此的喜好、脾气和小小的习惯，\n也一点点发现——\n原来这个世界上，真的会有一个人，\n让你愿意花很长时间去了解。\n",
+          "tags": [
+            "旅游，吃饭，见家长"
+          ],
+          "posts": [
+            {
+              "id": "post-mugfqxnf-b4dao",
+              "title": "吃饭",
+              "date": "2-10",
+              "text": "那次探店途中，我们一起逛了超市。\n\n买了些寻常的东西，\n也把那一天的平凡，悄悄收藏成了回忆。\n",
+              "imageIds": [
+                "image-mugfv63m-u8wm6"
+              ]
+            },
+            {
+              "id": "post-mugg0t7x-0z5zo",
+              "title": "罗勇",
+              "date": "5-20",
+              "text": "一起坐在沙滩上，吹着海风，吃着水果。\n",
+              "imageIds": [
+                "image-mugg9ml4-5tk7w"
+              ]
+            },
+            {
+              "id": "post-mugga3nb-1yzac",
+              "title": "动物园",
+              "date": "5-20",
+              "text": "Paste the memory here.一人一根冰棒，\n再一起去摸大象。\n\n那天的快乐很简单，\n有冰棒，有大象，还有身边的你。\n",
+              "imageIds": [
+                "image-muggid6u-khpbw",
+                "image-mugh7221-uqc8a"
+              ]
+            },
+            {
+              "id": "post-mugglait-dabj3",
+              "title": "骑大象",
+              "date": "3-30",
+              "text": "一起体验了一次骑大象，\n在陌生又新鲜的旅途中，留下了一段特别的回忆。\n",
+              "imageIds": [
+                "image-muggmg25-4ry1l",
+                "image-mugh6jjs-jgpis"
+              ]
+            },
+            {
+              "id": "post-muggmtt6-zzddq",
+              "title": "回国见闺蜜",
+              "date": "4-19",
+              "text": "回国见闺蜜",
+              "imageIds": [
+                "image-muggoc3n-p0yon"
+              ]
+            },
+            {
+              "id": "post-muggosa2-skhsn",
+              "title": "尖竹汶",
+              "date": "5-11",
+              "text": "自驾游一起去尖竹汶",
+              "imageIds": [
+                "image-muggpua8-1vxi6"
+              ]
+            },
+            {
+              "id": "post-muggq78w-voelu",
+              "title": "海洋馆",
+              "date": "5-18",
+              "text": "一起去海洋馆",
+              "imageIds": [
+                "image-muggt2be-1vuvl"
+              ]
+            },
+            {
+              "id": "post-muggt8q5-jqclf",
+              "title": "一起逛街",
+              "date": "9-22",
+              "text": "一起逛街",
+              "imageIds": [
+                "image-muggtp2i-a0njd"
+              ]
+            },
+            {
+              "id": "post-muggu904-ij5sa",
+              "title": "某建筑物",
+              "date": "5-25",
+              "text": "某建筑物",
               "imageIds": []
+            },
+            {
+              "id": "post-muggyyfo-vsn1k",
+              "title": "搬家",
+              "date": "8-31",
+              "text": "你也来曼谷了",
+              "imageIds": [
+                "image-muggzy7j-lrxck"
+              ]
+            },
+            {
+              "id": "post-mugh0lr7-p8j6p",
+              "title": "红树林",
+              "date": "9-20",
+              "text": "红树林发现弹涂鱼",
+              "imageIds": [
+                "image-mugh1i8f-122wz",
+                "image-mughajsf-hu3pj",
+                "image-mughapbi-68vpd"
+              ]
+            },
+            {
+              "id": "post-mugh3hxo-5jiyo",
+              "title": "悬崖咖啡厅",
+              "date": "11-12",
+              "text": "悬崖咖啡厅",
+              "imageIds": [
+                "image-mugh51n3-c80d5"
+              ]
+            },
+            {
+              "id": "post-mugh59sc-4xl6x",
+              "title": "某沙滩",
+              "date": "9-20",
+              "text": "你用相机记录下夕阳西下",
+              "imageIds": [
+                "image-mugh5o72-xw5hv",
+                "image-mughjopk-uoqy7",
+                "image-mughp28c-6e0nq"
+              ]
+            },
+            {
+              "id": "post-mughckc9-qpv0g",
+              "title": "结婚",
+              "date": "10-13",
+              "text": "一起回桂林结婚",
+              "imageIds": [
+                "image-mughd038-5g278",
+                "image-mughd4n4-cx3xd",
+                "image-mughd99r-kj2r4",
+                "image-mughdl6x-i80vh",
+                "image-mughj1dl-eyg5g",
+                "image-mughj761-csy1v",
+                "image-mughjc7r-pa2p9"
+              ]
+            },
+            {
+              "id": "post-mughe51j-qqkbv",
+              "title": "一起喝酒",
+              "date": "9-13",
+              "text": "一起喝酒微醺",
+              "imageIds": [
+                "image-mughesty-ughvc",
+                "image-mughfsti-jbln0"
+              ]
+            },
+            {
+              "id": "post-mughgrdr-fxo3a",
+              "title": "25年跨年-普吉岛",
+              "date": "12-31",
+              "text": "25年跨年-普吉岛",
+              "imageIds": [
+                "image-mughohgc-5rlbd",
+                "image-mughohgq-5te9e",
+                "image-mughohgq-lqxnn",
+                "image-mughohgq-0fq2w",
+                "image-mughohgq-gqt8f",
+                "image-mughohgr-t4933",
+                "image-mughohgr-qmczn",
+                "image-mughtu1i-k9i4x"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "archive-mugfp6gw-baij8",
+          "year": "2026",
+          "title": "我们的可可",
+          "note": "这一年，我们没有去很多地方。\n\n因为肚子里多了一个小小的生命，\n有些想去的远方，只能暂时放在计划里。\n\n但我们也因此拥有了另一段特别的旅程——\n从两个人，到慢慢成为一家三口。\n\n有些风景可以以后再看，\n而这一段时光，却只有这一次。\n",
+          "tags": [
+            "怀孕，产检"
+          ],
+          "posts": [
+            {
+              "id": "post-mughqlei-fcgx2",
+              "title": "回国",
+              "date": "4-8",
+              "text": "回国待产 旅游 吃饭",
+              "imageIds": [
+                "image-mughueon-m7hg8",
+                "image-mughueoo-wvkb0",
+                "image-mughueoo-cha7k",
+                "image-mughueoo-siwpg"
+              ]
             }
           ]
         }
@@ -64,28 +665,12 @@
     "ourStory": {
       "title": "Our Story",
       "description": "A chaptered photo album about the friendship itself.",
-      "chapters": [
-        {
-          "id": "story-1",
-          "title": "Chapter One: becoming familiar",
-          "summary": "Describe the season when things started to feel natural. Keep it concrete: places, colors, weather, and habits.",
-          "photos": [
-            {
-              "id": "story-photo-1",
-              "caption": "The day we realized this was a real friendship",
-              "reflection": "Write what this photo means now. A good reflection tells the story behind the frame."
-            }
-          ]
-        }
-      ]
+      "chapters": []
     },
     "letter": {
       "title": "A Letter for You",
       "greeting": "Dear friend,",
-      "paragraphs": [
-        "This is where the quiet part of the album lives. Say the things that are easier to write slowly.",
-        "Thank you for being part of my ordinary days, my loud days, and the days I did not know how to name."
-      ],
+      "paragraphs": [],
       "signature": "with love",
       "accessCode": ""
     }
